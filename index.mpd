@@ -160,8 +160,9 @@
 						<S d="221184" r="18" />
 						<S d="177129" />
 					</SegmentTimeline>
-<AdaptationSet mimeType="text/vtt">
-  <Representation id="subtitle" bandwidth="0">
+<AdaptationSet>
+	<AdaptationSet contentType="text" id="1000" lang="ID" subsegmentAlignment="true">
+  <Representation bandwidth="256" id="0" mimeType="text/vtt">
     <BaseURL>https://raw.githubusercontent.com/askarsetiawan/astvstreaming1/main/subtitle.vtt</BaseURL>
   </Representation>
 </AdaptationSet>
